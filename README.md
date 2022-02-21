@@ -1,3 +1,5 @@
+![img_res](https://github.com/NicolaM94/Pymazon/blob/main/pymazonproj.JPG)
+
 # Pymazon
 ### Tool per l'analisi dei prezzi su Amazon e per l'acquisto ottimizzato.
 
