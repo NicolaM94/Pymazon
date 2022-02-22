@@ -8,4 +8,4 @@
 ### 💁‍♂️ Team:
 - Nicola Moro - Project overview and coordination
 - Tommaso Didonè - DB Management and notification system
-- Carlo Sargenti - Logging tools and debugging
+- Carlo Sargenti - Logging tools and analisys
